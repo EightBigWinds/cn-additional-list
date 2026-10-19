@@ -1,4 +1,4 @@
-# srs
+# cn-additional-list
 
 自动每小时同步上游域名列表，并生成 sing-box 可直接引用的二进制规则集文件。
 

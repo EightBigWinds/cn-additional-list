@@ -12,6 +12,24 @@
 
 `https://raw.githubusercontent.com/EightBigWinds/srs/main/sing-box/srs/cn-additional-list.srs`
 
+## 独立的 Tracker 规则集（cn-tracker-list）
+
+本仓库另有一条**相互独立、不与上面的 cn-additional-list 合并**的规则链，专门用于 BT Tracker 域名，每小时同步并单独编译为 `cn-tracker-list.srs`。
+
+产物路径：
+
+- `sing-box/source/cn-tracker-list.txt`（每行一个 Tracker 域名）
+- `sing-box/source/cn-tracker-list.json`（sing-box 规则集源，`domain_suffix`）
+- `sing-box/srs/cn-tracker-list.srs`（编译后的二进制规则集）
+
+远程引用地址（仓库名/分支不变时）：
+
+`https://raw.githubusercontent.com/EightBigWinds/srs/main/sing-box/srs/cn-tracker-list.srs`
+
+上游数据来源：`https://cf.trackerslist.com/best.txt`（BT Tracker 的 announce URL 列表，脚本会从中提取主机域名、去重后使用）。
+
+自动更新：`.github/workflows/update-cn-tracker-srs.yml`，每小时第 20 分执行（与整点执行的 `update-srs` 错开，避免推送冲突），也可在 Actions 页面手动触发。
+
 上游数据来源于@fastoo https://www.nodeseek.com/post-464238-1
 
 https://static-file-global.353355.xyz/rules/cn-additional-list.txt

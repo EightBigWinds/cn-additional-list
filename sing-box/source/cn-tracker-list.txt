@@ -7,6 +7,7 @@ bt1.archive.org
 bt2.archive.org
 discover.curiousfacts.blog
 evan.im
+exodus.desync.com
 explodie.org
 kolankoalastree.newtrackon.co.nz
 mail.segso.net
@@ -21,7 +22,6 @@ open.tracker.ink
 opentor.org
 p4p.arenabg.com
 retracker.hotplug.ru
-retracker01-msk-virt.corbina.net
 stairs.lat
 t.213891.xyz
 torrent.tracker.durukanbal.com
@@ -45,6 +45,7 @@ tracker.evergarden.uk
 tracker.foreverpirates.co
 tracker.ilibr.org
 tracker.internetwarriors.net
+tracker.ixuexi.click
 tracker.kuroy.me
 tracker.mywaifu.best
 tracker.nekomi.cn
@@ -60,6 +61,7 @@ tracker.qu.ax
 tracker.renfei.net
 tracker.skyts.net
 tracker.t-rb.org
+tracker.theoks.net
 tracker.torrent.eu.org
 tracker.torrents.observer
 tracker.transfur.org

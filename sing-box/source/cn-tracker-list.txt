@@ -22,7 +22,6 @@ open.tracker.ink
 opentor.org
 p4p.arenabg.com
 retracker.hotplug.ru
-retracker01-msk-virt.corbina.net
 stairs.lat
 t.213891.xyz
 torrent.tracker.durukanbal.com
@@ -45,7 +44,6 @@ tracker.ducks.party
 tracker.evergarden.uk
 tracker.foreverpirates.co
 tracker.ilibr.org
-tracker.internetwarriors.net
 tracker.kuroy.me
 tracker.mywaifu.best
 tracker.nekomi.cn
@@ -64,7 +62,6 @@ tracker.t-rb.org
 tracker.torrent.eu.org
 tracker.torrents.observer
 tracker.transfur.org
-tracker.tryhackx.org
 tracker.waaa.moe
 tracker.wildkat.net
 tracker.willy.pro
